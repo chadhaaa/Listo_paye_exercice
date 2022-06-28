@@ -35,4 +35,4 @@ app.listen(8000, () => {
   console.log("Listening on port : 8000 !");
 });
 
-module.exports = { absence };
+(module.exports = employeeAbsence), absence;
